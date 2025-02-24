@@ -7,9 +7,9 @@
 
 **ChatGPT 官网**入口：**[chatgpt.com](https://chatgpt.com)**
 
-**ChatGPT 中文版**入口：**[www.yixiaai.com](https://www.yixiaai.com)**
+**ChatGPT 中文版**入口：**[chat.yixiaai.com](https://chat.yixiaai.com)**
 
-**ChatGPT 镜像网站**入口：**[chat.lify.vip](https://chat.lify.vip)**
+**ChatGPT 镜像网站**入口：**[chat.lify.vip](https://www.yixiaai.com)**
 
 ---
 
@@ -52,8 +52,8 @@
 
 | 镜像站地址                                  | 支持版本              | 免费额度 | 注册方式 | 稳定性 | 功能亮点                                         |
 |---------------------------------------------|-----------------------|----------|----------|--------|--------------------------------------------------|
-| **[www.yixiaai.com](https://www.yixiaai.com)** | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-4o, o1 和 o3，支持 AI 绘图，适合开发者与普通用户 |
-| **[chat.lify.vip](https://chat.lify.vip)**     | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-o1、o3 模型，一比一还原官网，可以使用 AI 助手、AI 插件 |
+| **[chat.yixiaai.com](https://chat.yixiaai.com)** | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-4o, o1 和 o3，支持 AI 绘图，适合开发者与普通用户 |
+| **[chat.lify.vip](https://www.yixiaai.com)**     | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-o1、o3 模型，一比一还原官网，可以使用 AI 助手、AI 插件 |
 | **[guide1.lanjing.ai](https://guide1.lanjing.ai)** | GPT-4, GPT-4o         | 有       | 扫码使用 | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南        |
 | **[yixiaai.cn](https://yixiaai.cn)**          | GPT-4, GPT-3.5        | 有       | 扫码使用 | ⭐⭐⭐⭐   | 各种 AI 工具，你想要的，这儿全都有             |
 | **[lanjing.ai](https://lanjing.ai)**           | GPT-3.5               | 有       | 扫码使用 | ⭐⭐⭐    | 使用简单，适合初学者                           |
@@ -77,7 +77,7 @@
 ## ChatGPT 中文版的使用指南
 
 **通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 **[www.yixiaai.com](https://www.yixiaai.com)**）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 **[chat.yixiaai.com](https://chat.yixiaai.com)**）。
 2. **扫码使用**：
    - **扫码登录**：扫码即可登录。
    - **免注册**：直接进入聊天界面，输入问题即可获得回答。
