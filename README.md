@@ -1,6 +1,6 @@
 # 【6月更新】ChatGPT 中文版：国内直连指南（支持GPT-4、GPT-4o、GPT-o1，无需翻墙）
 
-> 更新时间：2025/06/05
+> 更新时间：2025/06/15
 
 **全面体验 ChatGPT 中文版，无需翻墙，支持 GPT-4 和多种中文功能**   
 本项目旨在为用户提供一站式的 **ChatGPT 中文版使用指南**，同时整理了国内可用的 **ChatGPT 镜像网站**和**官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
@@ -9,7 +9,7 @@
 
 **ChatGPT 中文版**入口：**[xsimplechat.com](https://xsimplechat.com)**
 
-**ChatGPT 镜像网站**入口：**[chat.lanjing.pro](https://chat.lanjing.pro)**
+**ChatGPT 镜像网站**入口：**[talk.lanjing.pro](https://talk.lanjing.pro)**
 
 ---
 
@@ -28,7 +28,7 @@
 ---
 
 ## 什么是 ChatGPT 中文版？
-[**ChatGPT 中文版**](https://chat.lanjing.pro) 是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，旨在为中文用户提供更流畅、更精准的 AI 对话体验。相比官方 ChatGPT，**ChatGPT 中文版**在以下方面更适合国内用户：
+[**ChatGPT 中文版**](https://talk.lanjing.pro) 是由 OpenAI 开发的 ChatGPT 模型的中文优化版本，旨在为中文用户提供更流畅、更精准的 AI 对话体验。相比官方 ChatGPT，**ChatGPT 中文版**在以下方面更适合国内用户：
 
 - **中文支持**：提供更流畅的中文对话能力，适用于学习、办公和日常使用。
 - **国内直连**：通过国内镜像网站实现，无需翻墙即可访问。
@@ -52,7 +52,7 @@
 
 | 镜像站地址                                  | 支持版本              | 免费额度 | 注册方式 | 稳定性 | 功能亮点                                         |
 |---------------------------------------------|-----------------------|----------|----------|--------|--------------------------------------------------|
-| **[chat.lanjing.pro](https://chat.lanjing.pro)** | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-4o, o1 和 o3，支持 AI 绘图，适合开发者与普通用户 |
+| **[talk.lanjing.pro](https://talk.lanjing.pro)** | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-4o, o1 和 o3，支持 AI 绘图，适合开发者与普通用户 |
 | **[xsimplechat.com](https://xsimplechat.com)**     | GPT-4, GPT-4o, o1, o3 | 有       | 扫码使用 | ⭐⭐⭐⭐⭐  | 支持 GPT-o1、o3 模型，一比一还原官网，可以使用 AI 助手、AI 插件 |
 | **[chat.yixiaai.com](https://chat.yixiaai.com)** | GPT-4, GPT-4o         | 有       | 扫码使用 | ⭐⭐⭐⭐   | 提供 AI 使用指南，ChatGPT 中文版使用指南        |
 | **[yixiaai.cn](https://yixiaai.cn)**          | GPT-4, GPT-3.5        | 有       | 扫码使用 | ⭐⭐⭐⭐   | 各种 AI 工具，你想要的，这儿全都有             |
@@ -77,7 +77,7 @@
 ## ChatGPT 中文版的使用指南
 
 **通过镜像网站快速体验**
-1. **选择镜像站点**：访问推荐的镜像站点（如 **[chat.lanjing.pro](https://chat.lanjing.pro)**）。
+1. **选择镜像站点**：访问推荐的镜像站点（如 **[talk.lanjing.pro](https://talk.lanjing.pro)**）。
 2. **扫码使用**：
    - **扫码登录**：扫码即可登录。
    - **免注册**：直接进入聊天界面，输入问题即可获得回答。
